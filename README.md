@@ -7,7 +7,7 @@ Usé `<h1>` para el nombre del sitio.
 La etiqueta de `Email:` la hice con `<span class="label">` y CSS.  
 El uso de `<em>` es correcto.  
 Cambié `Publicado el 20/12/2024` por `<time datetime="2024-12-20">20/12/2024</time>`.  
-Sustituí `.quote` por `<blockquote>` para la cita en bloque. También cambié el nombre en `<style>`.  
+Sustituí `.quote` por `<blockquote>` junto con un `<cite>`. También cambié el nombre en `<style>`.  
 En la sección de contacto usé `<address>`, evitando `<strong>`.  
 Se usó una jerarquía correcta.  
 Validado por W3C Validator https://validator.w3.org/
